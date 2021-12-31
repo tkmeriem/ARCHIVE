@@ -1,0 +1,47 @@
+#texte {
+    position: relative;
+    top:70px;
+    width: 945px;
+    text-align: justify;
+    font-size: 17px;
+    padding:25px;
+    z-index: 0
+}
+#texte h3 {
+    margin: 20px 0px
+}
+#texte p {
+    margin:20px 0px;
+}
+
+#texte ul{
+    margin: 20px
+}
+
+#texte ul li {
+    padding:5px
+}
+
+img {
+    width: 945px
+}
+
+table {
+    border:2px #ffffff solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border:1px #ffffff solid;
+}
+
+td li {
+    text-align: left;
+}
+
+th {
+    color: #071015;
+    background-color: #fff;
+    padding:13px
+}

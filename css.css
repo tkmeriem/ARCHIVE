@@ -1,0 +1,141 @@
+*   {
+    margin:0;
+    padding:0;
+    color: #ffffff;
+}
+body {
+    background-color: #071015;
+    font-family: bahnschrift light;
+       }
+       
+
+#logo {
+    color:#ee6666;
+    font-size:22px;
+    float:left;
+    line-height:70px;
+    padding: 0 10px;
+    font-family: bahnschrift semibold;
+       }
+nav {
+    margin:0;
+    width:100%;
+    height:70px;
+    background-color: #ffffff;
+    position:fixed;
+    font-family: bahnschrift;
+    z-index:2
+}
+
+nav ul  {
+  list-style:none;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height:70px;
+}
+
+nav ul li a{
+    display:block;
+    color: #071015;
+    text-decoration: none;
+    padding:0 20px;
+}
+
+nav ul li a:hover{
+    color: #071015;
+    text-decoration: none;
+    padding:0 20px;
+    background-color:#CECEDE;
+}
+
+nav ul li ul {
+    display:none;
+    position: absolute
+}
+
+nav ul li:hover ul{
+    display:block;
+    background-color:#ffffff;
+}
+
+.contact {
+    text-align:center;
+    color:#ffffff;
+    font-size:16px;
+    margin:60px 0px 30px
+}
+.lien{
+    color:#ee6666
+}
+
+#menu2 {
+    background-color:#e7f0f5;
+    position: fixed;
+    width: 300px;
+    padding:15px;
+    border-radius: 5px;
+    top:90px;
+    z-index:1;
+    left:auto;
+    right:25px
+}
+
+#menu2 h2{
+    color:#c44;
+    text-decoration: underline;
+    padding:5px 10px;
+}
+
+#menu2 ul{
+    list-style: none;
+}
+
+#menu2 ul li{
+    padding: 10px;
+}
+
+#menu2 ul li a {
+    text-decoration: none;
+    color: #75167B
+}
+
+#menu2 ul li a:hover {
+    color: #B556BB;
+}
+
+#menu3 {
+    background-color:#c44;
+    position: fixed;
+    width: 300px;
+    padding:15px;
+    border-radius: 5px;
+    top:420px;
+    z-index:1;
+    left:auto;
+    right:25px
+}
+
+#menu3 h2{
+    color:#e7f0f5;
+    text-decoration: underline;
+    padding:5px 10px;
+}
+
+#menu3 ul{
+    list-style: none;
+}
+
+#menu3 ul li{
+    padding: 10px;
+}
+
+#menu3 ul li a {
+    text-decoration: none;
+    color: #E0C6FF
+}
+#menu3 ul li a:hover {
+    text-decoration: none;
+    color: #F0F6FF
+}
