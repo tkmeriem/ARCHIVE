@@ -1,7 +1,7 @@
 #texte {
     position: relative;
     top:70px;
-    width: 945px;
+    width: 70%;
     text-align: justify;
     font-size: 17px;
     padding:25px;
@@ -23,7 +23,7 @@
 }
 
 img {
-    width: 945px
+    width: 100%
 }
 
 table {
