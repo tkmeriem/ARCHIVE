@@ -73,7 +73,7 @@ nav ul li:hover ul{
 #menu2 {
     background-color:#e7f0f5;
     position: fixed;
-    width: 300px;
+    width: 22%;
     padding:15px;
     border-radius: 5px;
     top:90px;
@@ -108,7 +108,7 @@ nav ul li:hover ul{
 #menu3 {
     background-color:#c44;
     position: fixed;
-    width: 300px;
+    width: 22%;
     padding:15px;
     border-radius: 5px;
     top:420px;
